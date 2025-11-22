@@ -27,6 +27,8 @@ punctuation, digits) are copied unchanged.
 
 Testing from the project folder:
 
+** Need to download g++ (MinGW-w64) in order to utilize this program **
+
 - Encrypt: ./crypt -kFEATHER sample_normal.txt encrypted.txt 
 >> Encrpyts your txt file and pushes the encryption to a txt file named 'encrypted.txt'
 
