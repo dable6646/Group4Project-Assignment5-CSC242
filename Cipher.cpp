@@ -1,3 +1,9 @@
+/* 
+   Cipher.cpp
+   Simple monoalphabetic cipher program
+   Encrypts or decrypts text files using a keyword-based substitution alphabet.
+   Group 4 - Assignment 5 - Q. 8.7
+*/
 #include <iostream>
 #include <fstream>
 #include <string>
